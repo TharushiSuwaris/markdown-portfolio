@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+### My Hobies
+* Listening to Music
+* Watching Movies
+   1. Thriller
+   2. Fantasy
+* Reading Books
+ 
