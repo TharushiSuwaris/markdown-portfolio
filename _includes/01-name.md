@@ -1,1 +1,3 @@
-Replace this with your name, and include a header.
+# Tharushi Suwaris
+## Adding headers
+### header small
